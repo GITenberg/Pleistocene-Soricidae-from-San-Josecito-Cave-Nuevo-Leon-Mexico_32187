@@ -1,0 +1,29 @@
+_repo: Pleistocene-Soricidae-from-San-Josecito-Cave-Nuevo-Leon-Mexico_32187
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Findley, James S. (James Smith)
+    alias: Findley, James Smith
+    birthdate: 1926
+    gutenberg_agent_id: '35694'
+    url: http://www.gutenberg.org/2009/agents/35694
+description: ''
+gutenberg_issued: '2010-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32187'
+  lccn: '53063231'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paleontology -- Pleistocene'
+- !lcc 'QH'
+- !lcsh 'Paleontology -- Mexico'
+- !lcsh 'Shrews, Fossil'
+title: Pleistocene Soricidae from San Josecito Cave, Nuevo Leon, Mexico
+url: http://www.gutenberg.org/ebooks/32187
